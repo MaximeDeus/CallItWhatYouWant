@@ -1,0 +1,19 @@
+{
+  "name": "callitwhatyouwant",
+  "version": "1.0.0",
+  "description": "A repository for testing something in my mind... :-)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaximeDeus/CallItWhatYouWant.git"
+  },
+  "author": "Maxime DEROISSART",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MaximeDeus/CallItWhatYouWant/issues"
+  },
+  "homepage": "https://github.com/MaximeDeus/CallItWhatYouWant#readme"
+}
